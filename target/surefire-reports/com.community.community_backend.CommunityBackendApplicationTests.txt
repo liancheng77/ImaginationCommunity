@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.community.community_backend.CommunityBackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.401 s - in com.community.community_backend.CommunityBackendApplicationTests
